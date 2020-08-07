@@ -7,4 +7,4 @@ The Graph which acts as the map to visualize the different points.
 
 The shortest distance between two points determined using A* algorithm and visualized : 
 
-![paht] (path.png)
+![path](path.png)
